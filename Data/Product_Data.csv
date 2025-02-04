@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,Launch_Date
+1001,Azithrovir,Infectious Disease,31-12-10
+1002,Glucorex,Diabetes,31-12-11
+1003,Pneumovax,Vaccines,31-12-12
+1004,Atorvex,Cardiology,31-12-13
+1005,Rifaplex,Infectious Disease,31-12-14
+1006,FluShield,Vaccines,31-12-15
+1007,Gabaprex,Neurology,31-12-16
+1008,Bisopril,Cardiology,31-12-17
+1009,Hepavax,Vaccines,31-12-18
+1010,Ciproxin,Infectious Disease,31-12-19
+1011,Candesartan,Cardiology,31-12-20
+1012,Metformin,Diabetes,31-12-21
+1013,Topiramate,Neurology,31-12-22
+1014,Tetracure,Infectious Disease,31-12-23
+1015,Imatinib,Oncology,31-12-24
+1016,Levetiracetam,Neurology,31-12-25
+1017,Insuvida,Diabetes,31-12-26
+1018,Varivax,Vaccines,31-12-27
+1019,Dapagliflozin,Diabetes,31-12-28
+1020,Gefitinib,Oncology,31-12-29
+1021,Rivastigmine,Neurology,31-12-30
+1022,Zanamivir,Infectious Disease,31-12-31
+1023,Sorafenib,Oncology,31-12-32
+1024,Fluconix,Infectious Disease,31-12-33
+1025,Diltiazem,Cardiology,31-12-34
+1026,Amoxiril,Infectious Disease,31-12-35
+1027,Eplerenone,Cardiology,31-12-36
+1028,Doxycycline,Infectious Disease,31-12-37
+1029,Felodipine,Cardiology,31-12-38
+1030,Donepezil,Neurology,31-12-39
+1031,Sitagliptin,Diabetes,31-12-40
+1032,Memantine,Neurology,31-12-41
+1033,Bevacizumab,Oncology,31-12-42
+1034,Pregabalin,Neurology,31-12-43
+1035,Lamotrigine,Neurology,31-12-44
+1036,Empagliflozin,Diabetes,31-12-45
+1037,Menactra,Vaccines,31-12-46
+1038,Carbamazepine,Neurology,31-12-47
+1039,Cetuximab,Oncology,31-12-48
+1040,Duloxetine,Neurology,31-12-49
+1041,Venlafaxine,Neurology,31-12-50
+1042,Sertraline,Neurology,31-12-51
+1043,Paroxetine,Neurology,31-12-52
+1044,Liraglutide,Diabetes,31-12-53
+1045,Pioglitazone,Diabetes,31-12-54
+1046,Rituximab,Oncology,31-12-55
+1047,Rotarix,Vaccines,31-12-56
+1048,Trastuzumab,Oncology,31-12-57
+1049,Ibrutinib,Oncology,31-12-58
+1050,Gardasil,Vaccines,31-12-59
+1051,Escitalopram,Neurology,31-12-60
+1052,Zostavax,Vaccines,31-12-61
+1053,Oseltamivir,Infectious Disease,31-12-62
+1054,Unknown,Neurology,31-12-63
+1055,Vancomycin,Infectious Disease,31-12-64
+1056,Nivolumab,Oncology,31-12-65
+1057,Unknown,Neurology,31-12-66
+1058,Infanrix,Vaccines,31-12-67
+1059,Twinrix,Vaccines,31-12-68
+1060,Cervarix,Vaccines,31-12-69
