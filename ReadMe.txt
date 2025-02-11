@@ -1,8 +1,8 @@
-Welcome to My Portfolio Project! 🚀
+Welcome to My Portfolio Project! 
 Unfortunately, Power BI does not support public sharing like Tableau. Until I fully replicate this dashboard in Tableau, you'll have to explore it through the offline Power BI file.
 
 However, if you're short on time, you can:
-✅ Get a quick preview of my data visualization skills through the screenshots in the folder 📸
+✅ Get a quick preview of my data visualization skills through the screenshots in the folder 
 ✅ Read the Strategic Business Review, which provides a comprehensive analysis of the data, key insights, and high-level strategic recommendations 
 
 📂 Project Files Overview
